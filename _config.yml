@@ -1,6 +1,6 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+#pygments: true
 safe: false
-title: 'Soyun Park'
+title: 'Sienna park'
